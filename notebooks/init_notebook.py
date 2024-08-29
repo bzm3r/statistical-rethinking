@@ -1,9 +1,7 @@
 
 import numpy as np
-import pandas as pd
-import statsmodels.formula.api as smf
+import polars as pl
 import pymc as pm
-import xarray as xr
 import arviz as az
 import utils as utils
 

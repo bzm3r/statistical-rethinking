@@ -1,0 +1,6 @@
+Added pymc>=5.16.2 as regular dependency
+Reusing already existing virtualenv
+Generating production lockfile: /home/bzm3r/statistical-rethinking-2023/requirements.lock
+Generating dev lockfile: /home/bzm3r/statistical-rethinking-2023/requirements-dev.lock
+Installing dependencies
+Done!
